@@ -55,7 +55,7 @@ This **Power BI Dashboard** showcases:
 Clone the repository and explore the dashboard:
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/hyundai-sales-dashboard.git
+git clone https://github.com/yourusername/hyundai-company-sales-data-analysis.git
 
 # Open the Power BI (.pbix) file in Power BI Desktop
 ```
@@ -66,9 +66,7 @@ git clone https://github.com/yourusername/hyundai-sales-dashboard.git
 
 ## 🔗 Connect With Me
 Let's connect and discuss insights! 🚀
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rutikretwade12)
 
-🚀 **Happy Analyzing!** 📊
+
 
